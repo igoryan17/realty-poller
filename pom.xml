@@ -9,6 +9,8 @@
   <version>0.0.1-SNAPSHOT</version>
   <modules>
     <module>realty-poller-application</module>
+    <module>realty-poller-parser</module>
+    <module>realty-poller-service</module>
   </modules>
 
   <packaging>pom</packaging>
